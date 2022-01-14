@@ -1,6 +1,6 @@
 {
   "name": "package-lock-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A demo to test the functionality of package-lock.json",
   "main": "index.js",
   "scripts": {
