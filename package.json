@@ -10,5 +10,8 @@
     "package-lock"
   ],
   "author": "shashikanth",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
 }
