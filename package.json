@@ -12,6 +12,7 @@
   "author": "shashikanth",
   "license": "ISC",
   "dependencies": {
-    "loadash": "^1.0.0"
+    "loadash": "^1.0.0",
+    "package-lock-demo": "^1.0.1"
   }
 }

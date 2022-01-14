@@ -1,3 +1,7 @@
+#1.0.2
+added same package as dependency
+can see the functionality of package-lock.json
+
 #1.0.1
 added README.MD file
 installed loadash
